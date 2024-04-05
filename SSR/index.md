@@ -1,4 +1,4 @@
-# ** Module 1 : Science of Self Realization (SSR) **
+# Module 1 : Science of Self Realization (SSR)
 
 1. **[SSR - Lesson 1](https://www.youtube.com/live/qcHAfrP6fsY?si=RGSMd349MTsebsGP)**
 2. **[SSR - Lesson 2](https://www.youtube.com/live/wa0-YwlBH04?si=NwdZIgkRNKraM7Yx)**
