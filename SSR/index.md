@@ -1,6 +1,6 @@
 # Module 1 : Science of Self Realization (SSR)
 
-## [SSR Lecture Slides](https://docs.google.com/presentation/d/1Ea3Ry7JPelfxsyc3FqvgYBh5dt77T43f4Xi_Tjim2_k/edit?usp=sharing)
+## [SSR Lecture Slides](https://drive.google.com/file/d/1J4gf23jiyvA71K0nES51xaSpwgy3BJDp/view?usp=sharing)
 
 ## Bengali Lessons
 
