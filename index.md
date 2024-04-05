@@ -6,6 +6,7 @@ This is the official website for Vaisnava Training courses hosted by HG Ruparaja
 
 **Module 1**. **[Science of Self Realization](https://vaisnavatraining.github.io/SSR)**
 
-**More Modules will be added soon**
+
+*[More Modules will be added soon...]*
 
 
