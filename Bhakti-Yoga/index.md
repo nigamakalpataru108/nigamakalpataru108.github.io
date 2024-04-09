@@ -1,4 +1,4 @@
-# Module 1 : Science of Self Realization (SSR)
+# Module 2 : Bhakti Yoga - Why & How
 
 *[Click Here for Bhakti Yoga Lecture Slides](https://drive.google.com/file/d/1ED_xh6JT-Jsy1CfpuYa0UQkwS_6t0-EU/view?usp=sharing)*
 
