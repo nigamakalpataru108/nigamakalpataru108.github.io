@@ -1,4 +1,4 @@
-# **Course Modules**
+# **Vaisnava Training Modules**
 
 **Module 1**. **[Science of Self Realization](https://vaisnavatraining.github.io/SSR)**
 
