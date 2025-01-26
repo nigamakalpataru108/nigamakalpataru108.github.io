@@ -1,14 +1,8 @@
 # **Vaisnava Training Modules**
 
-<img src="images/sastric_study.jpg" alt="Example Image" width="50" height="50" />
+<img src="images/sastric_study.jpg" alt="Example Image" width="100" height="100" />
 
-**Sastric Study** **[Science of Self Realization](https://vaisnavatraining.github.io/SSR)**
+**[Sastric Study](https://nigamakalpataru108.github.io/Sastric_Study)**
 
-**Module 1**. **[Science of Self Realization](https://vaisnavatraining.github.io/SSR)**
-
-**Module 2**. **[Bhakti Yoga: Why & How](https://vaisnavatraining.github.io/Bhakti-Yoga)**
-
-
-*[More Modules will be added soon...]*
 
 
