@@ -1,23 +1,15 @@
 # Module 1 : Science of Self Realization (SSR)
 
-*[Click Here for SSR Lecture Slides](https://drive.google.com/file/d/1J4gf23jiyvA71K0nES51xaSpwgy3BJDp/view?usp=sharing)*
+The SSR Seminar serves as the foundational course in Krishna Consciousness, presenting its principles with a strong scientific basis while addressing fundamental questions about spirituality.
 
-## Bengali Lessons
+After attending the seminar, you are required to complete an open-book test. You may use resources such as the Gauravani Pracarine book and the SSR YouTube playlists to assist you. Write down your answers and submit them using the link provided in the question paper. Links to all resources are given below.
 
-1. **[SSR Bengali - Lesson 1](https://www.youtube.com/live/qcHAfrP6fsY?si=RGSMd349MTsebsGP)**
-2. **[SSR Bengali - Lesson 2](https://www.youtube.com/live/wa0-YwlBH04?si=NwdZIgkRNKraM7Yx)**
-3. **[SSR Bengali - Lesson 3](https://www.youtube.com/live/z-yp3l4AGdo?si=rnpLo0hsy57J7e80)**
-4. **[SSR Bengali - Lesson 4](https://www.youtube.com/live/VWProVEneYw?si=IHg1Ll6EtYmyc_Ao)**
+1. **[SSR Youtube Playlist (Bengali)](https://youtube.com/playlist?list=PLRv-89Ces_lH56O2Oy6ngKQq0u2xdhnIF&feature=shared)**
+2. **[SSR Youtube Playlist (English)](https://youtube.com/playlist?list=PLRv-89Ces_lGokwC7xUp5fBE0TvZ7GdTs&feature=shared)**
+3. **[Gauravani Pracarine Book(Bengali)](https://drive.google.com/file/d/12qWRLA4AAFJ76Q33AsLt-x3hiyeMpTt9/view?usp=sharing)**
+4. **[SSR Slides (English)](https://drive.google.com/file/d/1J4gf23jiyvA71K0nES51xaSpwgy3BJDp/view?usp=drivesdk)**
+5. **[SSR Exam Question Paper (Open Book)](https://docs.google.com/document/d/106zy3K3D8l8IUJI20bm0AwlfnxLmjbdWD7eZ__k74tM/edit?usp=sharing)**
 
-
-## English Lessons
-
-1. **[SSR English - Lesson 1](https://youtu.be/sLi1fqKULPE?si=5j3yFHQVN3q6b60h)**
-2. **[SSR English - Lesson 2](https://youtu.be/AA7BtYyGj0U?si=wpcU4IJqOig7JQQa)**
-3. **[SSR English - Lesson 3](https://youtu.be/GURRvo_bNI0?si=FBA-gwHMN9WUrwPO)**
-4. **[SSR English - Lesson 4](https://youtu.be/lxpXUXiyGxc?si=GTK4R9qtPx3m-pWX)**
-5. **[SSR English - Lesson 5](https://youtu.be/Xyu8qLN1mIg?si=Aj8w1_s6xav9JS8g)**
-6. **[SSR English - Lesson 6](https://youtu.be/lKrFdeVFGHc?si=_WbE-fAqMbfRGn8K)**
 
 
 
