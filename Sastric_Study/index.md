@@ -1,7 +1,5 @@
 # **Sastric Study**
 
-# **Vaisnava Training Modules**
-
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="margin: 0 10px; text-align: center;">
         <a href="https://nigamakalpataru108.github.io/Sastric_Study/SSR">
