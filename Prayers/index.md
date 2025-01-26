@@ -1,19 +1,15 @@
 # Vandanam (Prayers)
 
-Training devotees to memorize verses from important scriptures like Bhagavad-Gita, Srimad Bhagavatam, Bhakti Rasamrta Sindhu etc as per the dream of Srila Prabhupada.
+This module enables devotees to recite and memorize prayers from Srimad Bhagavatam and other scriptures.
 
 ## Resources
 
-* **[SP Lawyer motivation](https://docs.google.com/document/d/1MhzFH9CdQ_pjKy2aBF0FElhlXR-ySmZ3U0NBBLHsoMY/edit?usp=sharing)**
-
-* **[Basic Sanskrit Course YouTube Playlist](https://youtube.com/playlist?list=PLRv-89Ces_lG8cmWR28RpEmtA0-5trqTE&si=_jEoqAq6ALindhAF)**
-
-* **[108 Gita Verses](https://docs.google.com/document/d/1hFCBnCWJd5MJgnp7LFNYv2MzpJWv4_Qk0xcvDlPr7O0/edit?usp=sharing)**
-
-* **[SB verses](https://docs.google.com/document/d/1pCBx32AUMf0Di-j_xHwElHKzMVbdyRnDtxcZHr71ivA/edit?usp=sharing)**
-
-* **[BRS Verses](https://docs.google.com/document/d/1TBMXzU-qLiowLnrwzbDJoYRS_CwrOu7K8Btj76kxJNQ/edit?usp=sharing)**
-
-* **[Pronunciation and Explanation of each verse](https://drive.google.com/drive/folders/1-N5hWCf07djgK7dMqGhrzaXgpHAMat2Q)**
+* **[Prayers to Mayapur Deities Bengali PDF](https://docs.google.com/presentation/d/1Fk-aNif08HoplR8jAuNnwwySaZI6UtmxEbVomk78uX8/edit?usp=sharing)**
+* **[Prayers to Mayapur Deities English PDF](https://docs.google.com/presentation/d/10C484BCHSNINoiqYJoI-5vTDxghcEYNZ0-FpMkzAgt4/edit?usp=sharing)**
+* **[Srimad Bhagavatam Prayer Recitations Playlist](https://youtube.com/playlist?list=PLRv-89Ces_lGexGFHKrNb656-NcHIk7ze&si=2vR9gblxxTUVSiL6)**
+* **[Srimad Bhagavatam Prayer Explanations Playlist](https://youtube.com/playlist?list=PLRv-89Ces_lGiKihN6Uvs3tlPypsCgqB9&si=cNNmRXMjish0ZM13)**
+* **[Other Prayer Recitations Playlist](https://youtube.com/playlist?list=PLRv-89Ces_lGvlpvgX8TIghXf0RuDLkTK&si=eK-IQ8UULiUuL4SR)**
+* **[Other Prayer Explanations Playlist](https://youtube.com/playlist?list=PLRv-89Ces_lFvmNqQBm_jOcJ6KpABKHV5&si=VaJcCtXam69XsF64)**
+* **[Mukunda Mala Stotra Explanations Playlist](https://youtube.com/playlist?list=PLRv-89Ces_lHi9WOd7YW8-QkTp5n0RDTw&si=xcZD11i0k_yk-6Zn)**
 
 
