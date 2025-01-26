@@ -22,6 +22,12 @@
         </a>
         <p><em>Module 3: Goloka Chart Seminar</em></p>
     </div>
+    <div style="margin: 0 10px; text-align: center;">
+        <a href="https://nigamakalpataru108.github.io/Sastric_Study/Diksa_Preparation">
+            <img src="../images/diksa.png" alt="BY" width="240" height="200">
+        </a>
+        <p><em>Module 4: Diksa Preparation</em></p>
+    </div>
 </div>
 
 
