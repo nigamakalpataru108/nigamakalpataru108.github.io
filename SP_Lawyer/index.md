@@ -1,8 +1,8 @@
 # SP Lawyer Project
 
-Training devotees to memorize verses from important scriptures like Bhagavad-Gita, Srimad Bhagavatam, Bhakti Rasamrta Sindhu etc as per the dream of Srila Prabhupada.
-
 _"Just see - you are not reading my books. **You have to read my books and you have to study and learn my books just like a lawyer learns the law books.** You must know everything chapter and verse. If you do not know, how will you teach these men unless you know my books."_ (Srila Prabhupada Room Conversation with Bhagavat Das Vanachari, Bombay, 1974)
+
+This Module is for training devotees to memorize verses from important scriptures like Bhagavad-Gita, Srimad Bhagavatam, Bhakti Rasamrta Sindhu etc as per the dream of Srila Prabhupada.
 
 Join SP Lawyers whatsapp group and post your video recordings of memorized sloka recitations. To join SP Lawyer whatsapp group: [click here](https://chat.whatsapp.com/F3gOLWEvQ7P2ncogMj97NU)
 
