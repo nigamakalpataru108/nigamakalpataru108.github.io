@@ -15,5 +15,14 @@
     </div>
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="margin: 0 10px; text-align: center;">
+        <a href="https://nigamakalpataru108.github.io/Sastric_Study/Goloka_Chart">
+            <img src="../images/goloka_chart.png" alt="GC" width="240" height="200">
+        </a>
+        <p><em>Module 3: Goloka Chart Seminar</em></p>
+    </div>
+</div>
+
 
 
