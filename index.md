@@ -1,6 +1,6 @@
 # **Vaisnava Training Modules**
 
-![Sastric Study](images/example-image.png)
+![Sastric Study](images/sastric_study.jpg)
 
 
 **Module 1**. **[Science of Self Realization](https://vaisnavatraining.github.io/SSR)**
