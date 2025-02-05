@@ -43,6 +43,7 @@ Study of 5 books as a requirement of first initiation:
 ## Small SP Books
 
 * **[OWK-MG-PQPA-BBD](https://drive.google.com/drive/folders/1H4A0dV-i7ttnpH5MfZugvetNd--wXnuW?usp=sharing)**
+* **[SP Small Book Exam](https://forms.gle/YnUmw3uMVfRRcefw8)**
 
 ## General Diksa Eligibility
 
